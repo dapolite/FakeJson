@@ -1,9 +1,9 @@
 {
   "candidate":{
   "profpic":"https://pbs.twimg.com/profile_images/499865260745293825/RZdTwK6X_400x400.jpeg"
-  "candidate_fname":"Shivangi",
-  "candidate_job":"Web Developer",
-  "candidate_location":"Vadodara",
-  "candidate.jobappstatus":"Shortlisted"
+  "candidate_fname" : "Shivangi",
+  "candidate_job" : "Web Developer",
+  "candidate_location" : "Vadodara",
+  "candidate.jobappstatus" : "Shortlisted"
   }
 }
